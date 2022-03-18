@@ -1,1 +1,1 @@
-pwd -L
+shell basic commands
